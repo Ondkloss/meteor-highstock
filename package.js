@@ -14,6 +14,6 @@ Package.onUse(function(api) {
     	'lib/highstock.js',
     	// Extra types
     	'lib/highcharts-more.js',
-    	'lib/highcharts-solide-gauge.js',
+    	'lib/highcharts-solid-gauge.js',
     ], 'client');
 });
