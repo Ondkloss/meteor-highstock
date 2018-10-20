@@ -1,3 +1,9 @@
+# Newsflash
+
+This is not being maintained or updated. Refer to this project instead:
+
+* [highcharts/highcharts-meteor](https://github.com/highcharts/highcharts-meteor)
+
 # Meteor wrapper for Highstock
 
 Add this to your Meteor app with:
